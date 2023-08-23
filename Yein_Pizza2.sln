@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yein_Pizza2", "Yein_Pizza2\Yein_Pizza2.csproj", "{ACB203E4-735D-49F2-9FF0-D4C4AE8B8E19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACB203E4-735D-49F2-9FF0-D4C4AE8B8E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACB203E4-735D-49F2-9FF0-D4C4AE8B8E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACB203E4-735D-49F2-9FF0-D4C4AE8B8E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACB203E4-735D-49F2-9FF0-D4C4AE8B8E19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF0E9880-5230-4C90-9DD9-23DC3DE1D27D}
+	EndGlobalSection
+EndGlobal

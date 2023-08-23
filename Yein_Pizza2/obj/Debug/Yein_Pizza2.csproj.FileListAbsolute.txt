@@ -1,0 +1,24 @@
+G:\My Drive\Yein_Pizza2\Yein_Pizza2\obj\Debug\Yein_Pizza2.csproj.AssemblyReference.cache
+G:\My Drive\Yein_Pizza2\Yein_Pizza2\obj\Debug\Yein_Pizza2.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\Yein_Pizza2\Yein_Pizza2\obj\Debug\Yein_pizza2.Form1.resources
+G:\My Drive\Yein_Pizza2\Yein_Pizza2\obj\Debug\Yein_Pizza2.Properties.Resources.resources
+G:\My Drive\Yein_Pizza2\Yein_Pizza2\obj\Debug\Yein_Pizza2.csproj.GenerateResource.cache
+G:\My Drive\Yein_Pizza2\Yein_Pizza2\obj\Debug\Yein_Pizza2.csproj.CoreCompileInputs.cache
+G:\My Drive\Yein_Pizza2\Yein_Pizza2\bin\Debug\Yein_Pizza2.exe.config
+G:\My Drive\Yein_Pizza2\Yein_Pizza2\bin\Debug\Yein_Pizza2.exe
+G:\My Drive\Yein_Pizza2\Yein_Pizza2\bin\Debug\Yein_Pizza2.pdb
+G:\My Drive\Yein_Pizza2\Yein_Pizza2\obj\Debug\Yein_Pizza2.exe
+G:\My Drive\Yein_Pizza2\Yein_Pizza2\obj\Debug\Yein_Pizza2.pdb
+G:\My Drive\Yein_Pizza2\Yein_Pizza2\obj\Debug\Yein_Pizza2.Form2.resources
+H:\Programming2\Yein_Pizza2\Yein_Pizza2\Yein_Pizza2\bin\Debug\Yein_Pizza2.exe.config
+H:\Programming2\Yein_Pizza2\Yein_Pizza2\Yein_Pizza2\bin\Debug\Yein_Pizza2.exe
+H:\Programming2\Yein_Pizza2\Yein_Pizza2\Yein_Pizza2\bin\Debug\Yein_Pizza2.pdb
+H:\Programming2\Yein_Pizza2\Yein_Pizza2\Yein_Pizza2\obj\Debug\Yein_Pizza2.csproj.AssemblyReference.cache
+H:\Programming2\Yein_Pizza2\Yein_Pizza2\Yein_Pizza2\obj\Debug\Yein_Pizza2.csproj.SuggestedBindingRedirects.cache
+H:\Programming2\Yein_Pizza2\Yein_Pizza2\Yein_Pizza2\obj\Debug\Yein_Pizza2.Form1.resources
+H:\Programming2\Yein_Pizza2\Yein_Pizza2\Yein_Pizza2\obj\Debug\Yein_Pizza2.Form2.resources
+H:\Programming2\Yein_Pizza2\Yein_Pizza2\Yein_Pizza2\obj\Debug\Yein_Pizza2.Properties.Resources.resources
+H:\Programming2\Yein_Pizza2\Yein_Pizza2\Yein_Pizza2\obj\Debug\Yein_Pizza2.csproj.GenerateResource.cache
+H:\Programming2\Yein_Pizza2\Yein_Pizza2\Yein_Pizza2\obj\Debug\Yein_Pizza2.csproj.CoreCompileInputs.cache
+H:\Programming2\Yein_Pizza2\Yein_Pizza2\Yein_Pizza2\obj\Debug\Yein_Pizza2.exe
+H:\Programming2\Yein_Pizza2\Yein_Pizza2\Yein_Pizza2\obj\Debug\Yein_Pizza2.pdb
